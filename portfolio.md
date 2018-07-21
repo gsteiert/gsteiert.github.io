@@ -16,3 +16,13 @@
 * [spi2sd](http://fritzing.org/projects/spi2sd), SPI header to micro SD card adapter
 * [mbd2pmd](http://fritzing.org/projects/mbd2pmd), mbed board to pmod adapter with micro SD card connector and ethernet magjack connector
 
+### [Hackaday](https://hackaday.io/gsteiert)
+
+* [BBQ Thermogen](https://hackaday.io/project/159095-bbq-thermogen), BBQ Energy harvester, [https://github.com/gsteiert/BBQ-Thermogen](https://github.com/gsteiert/BBQ-Thermogen)
+
+### Maxim Boards
+
+* [MAXREFDES72](https://www.maximintegrated.com/en/design/reference-design-center/system-board/5878.html), Pmod adapter for Arduino platform
+* [MAX32625PICO](https://www.maximintegrated.com/en/products/microcontrollers/MAX32625PICO.html), MAX32625 MAXDAP debug adapter/development platform [https://github.com/MaximIntegratedMicros/max32625pico-pcb](https://github.com/MaximIntegratedMicros/max32625pico-pcb)
+* [MAX32620FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32620FTHR.html), MAX32620 Rapid development platform [https://github.com/MaximIntegratedMicros/max32620fthr-pcb](https://github.com/MaximIntegratedMicros/max32620fthr-pcb), [MAX32620 Hackster Cheat Sheet](https://www.hackster.io/switches/max32620fthr-cheat-sheet-aee102)
+* [MAX32630FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32630FTHR.html), MAX32630 Rapid development platform
