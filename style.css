@@ -5,9 +5,8 @@ body {
 }
 
 img {
-    display: inline;
-    padding: 2vw;
-    width: 20vw;
+    padding: 1em;
+    width: 8em;
 }
 
 h1 {
@@ -20,20 +19,20 @@ h1 {
 
 .top-text {
     position: absolute;
-    top: 2vw;
-    left: 28vw;
+    top: 1em;
+    left: 12em;
 }
  
 .left-side {
     position: absolute;
-    left: 0vw;
-    width: 25vw;
+    left: 0%;
+    width: 25%;
     
 }
 
 .right-side {
     position: absolute;
-    left: 30vw;
-    width: 65vw;
+    left: 30%;
+    width: 65%;
     
 }
