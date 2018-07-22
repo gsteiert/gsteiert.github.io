@@ -1,0 +1,26 @@
+body {
+    color: #00A860;
+    background-color: #CCCCCC;
+    
+}
+
+img {
+    display: inline;
+    padding: 10px;
+}
+
+h1 {
+    
+}
+
+.top-row {
+    background-color: #FFFFFF;
+}
+
+.top-text {
+    position: absolute;
+    top: 60px;
+    left: 250px;
+#    background-color: inherit;
+#    vertical-align: middle;
+}
