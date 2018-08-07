@@ -1,6 +1,8 @@
 # [GREG STEIERT](https://gsteiert.github.io)
+
 ## SUMMARY
 Creative problem-solver with extensive experience in electronics design, architecture, and applications; demonstrated ability to identify customer needs and synthesize them into successful products. 
+
 ## ACCOMPLISHMENTS
 ### ARM TechCon
 * Member of Technical Program Committee, 2016, 2017, 2018
@@ -11,13 +13,14 @@ Creative problem-solver with extensive experience in electronics design, archite
 ### Publications
 * “A Chimera of Standards, or the Challenges of Adapting Prototyping Standards,” [_EDN_,  Jan. 2015](https://www.edn.com/design/analog/4438443/A-Chimera-of-Standards--or-the-Challenges-of-Adapting-Prototyping-Standards)
 * “Wearable Weight Loss - Slim Down Wellness Devices with Better Energy Efficiency,” [_elektronikJOURNAL_, Nov. 2014](https://www.elektronikjournal.de/wp-content/uploads/sites/8/2014/11/eJL_2014_07_Internet-PDF_gepr.pdf) 
+
 ## EDUCATION
 **California Institute of Technology**:  B.S.E.E. 1996 
+
 ## SKILLS
 * **System Architecture**:  IoT, Wearable, Embedded, Video, Computer
 * **Hardware Design**:  ASIC, FPGA, Microcontrollers, Boards, Systems
 * **Software Development**:  Embedded C/C++, JAVA, Perl, JavaScrip
-
 
 ## EXPERIENCE
 ### Maxim Integrated, 2011 - Present:  PMTS Product Definer
