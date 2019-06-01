@@ -23,7 +23,9 @@ Creative problem-solver with extensive experience in electronics design, archite
 * **Software Development**:  Embedded C/C++, JAVA, Perl, JavaScrip
 
 ## EXPERIENCE
-### Maxim Integrated, 2011 - Present:  PMTS Product Definer
+### Lattice Semiconductor, 2018 - Present:  Field Applications Engineer
+Supporting FPGA customers in the Pacific Northwest.
+### Maxim Integrated, 2011 - 2018:  PMTS Product Definer
 This is a customer facing system architect role.  Presents the value proposition to customers and gathers feedback to drive new compelling solutions to market. 
 * Defined industry's leading wearable power management portfolio
 * Content creation including published articles, application notes, and ARM TechCon presentation
