@@ -11,6 +11,10 @@
 
 ## Hardware Projects
 
+### [Crowd Supply](https://www.crowdsupply.com/steiert-solutions)
+
+* [QwiiKit](https://www.crowdsupply.com/steiert-solutions/qwiikit), Collection of Qwiic adapters for a variety of development platforms
+
 ### [Fritzing](http://fritzing.org/profiles/gsteiert/)
 
 * [spi2sd](http://fritzing.org/projects/spi2sd), SPI header to micro SD card adapter
@@ -18,6 +22,9 @@
 
 ### [Hackaday](https://hackaday.io/gsteiert)
 
+* [FPGA Helper](https://hackaday.io/project/160254-fpga-helper), FPGA programmer
+* [NFCPROM](https://hackaday.io/project/160582-qwiic-nfcprom), Dual port NFC/Qwiic EEPROM
+* [Blinking Business card Badge](https://hackaday.io/project/160590-blinking-business-card-badge-b3), Electronic business card that lights up when read.
 * [BBQ Thermogen](https://hackaday.io/project/159095-bbq-thermogen), BBQ Energy harvester, [https://github.com/gsteiert/BBQ-Thermogen](https://github.com/gsteiert/BBQ-Thermogen)
 
 ### Maxim Boards
