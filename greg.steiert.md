@@ -27,7 +27,10 @@ Creative problem-solver with extensive experience in electronics design, archite
 
 ## EXPERIENCE
 
-### Lattice Semiconductor, 2018 - Present:  Field Applications Engineer
+### NXP Semiconductor, 2019 - Present:  Field Applications Engineer
+Supporting MCU customers in the Pacific Northwest.
+
+### Lattice Semiconductor, 2018 - 2019:  Field Applications Engineer
 Supporting FPGA customers in the Pacific Northwest.
 
 ### Maxim Integrated, 2011 - 2018:  PMTS Product Definer
