@@ -11,6 +11,11 @@
 
 ## Hardware Projects
 
+### [Crowd Supply](https://www.crowdsupply.com/steiert-solutions)
+
+* Double M33 Express (comming soon)
+* [Teardown 2019 Badge](https://upverter.com/design/gsteiert/teardown2019/)
+
 ### [Fritzing](http://fritzing.org/profiles/gsteiert/)
 
 * [spi2sd](http://fritzing.org/projects/spi2sd), SPI header to micro SD card adapter
@@ -18,7 +23,12 @@
 
 ### [Hackaday](https://hackaday.io/gsteiert)
 
-* [BBQ Thermogen](https://hackaday.io/project/159095-bbq-thermogen), BBQ Energy harvester, [https://github.com/gsteiert/BBQ-Thermogen](https://github.com/gsteiert/BBQ-Thermogen)
+* [QwiiKit](https://hackaday.io/project/173961-qwiikit), Collection of Qwiic adapters for a variety of development platforms
+* [USB Type-C Breakout](https://hackaday.io/project/166611-usb-type-c-breakout-board), USB Type-C plug breakout to SMA connectors
+* [FPGA Helper](https://hackaday.io/project/160254-fpga-helper), FPGA programmer
+* [NFCPROM](https://hackaday.io/project/160582-qwiic-nfcprom), Dual port NFC/Qwiic EEPROM
+* [Blinking Business card Badge](https://hackaday.io/project/160590-blinking-business-card-badge-b3), Electronic business card that lights up when read.
+* [QGPIO](https://hackaday.io/project/173648-qgpio), a Qwiic compatible GPIO expander
 
 ### Maxim Boards
 
