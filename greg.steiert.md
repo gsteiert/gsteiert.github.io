@@ -1,4 +1,4 @@
-# [GREG STEIERT](https://gsteiert.github.io)
+# [GREG STEIERT](https://greg.steiert.net) - - - 503-583-7363 - - - greg@steiert.net
 
 ## SUMMARY
 Creative problem-solver with extensive experience in electronics design, architecture, and applications; demonstrated ability to identify customer needs and synthesize them into successful products. 
@@ -9,7 +9,7 @@ Creative problem-solver with extensive experience in electronics design, archite
 * Member of Technical Program Committee, 2016, 2017, 2018
 * Presented “Wearable System Power Analysis and Optimization”, 2015
 
-### Two United States Patents
+### United States Patents
 * **US Patent #6,122,735**, "Fault resilient boot circuit using ring counter", issued September 19, 2000
 * **US Patent #5,790,430**, "Variable speed fan failure detector", issued August 4, 1998
 
@@ -23,15 +23,21 @@ Creative problem-solver with extensive experience in electronics design, archite
 ## SKILLS
 * **System Architecture**:  IoT, Wearable, Embedded, Video, Computer
 * **Hardware Design**:  ASIC, FPGA, Microcontrollers, Boards, Systems
-* **Software Development**:  Embedded C/C++, JAVA, Perl, JavaScrip
+* **Software Development**:  Embedded C/C++, JAVA, Perl, Python, JavaScript
 
 ## EXPERIENCE
 
 ### NXP Semiconductor, 2019 - Present:  Field Applications Engineer
-Supporting MCU customers in the Pacific Northwest.
+Supporting a broad portfolio of microcontrollers at key customers in the Pacific Northwest.
+* ARM Cortex M0/M3/M4/M33/M7 up to 1GHz
+* Pre and post sales support
+* Debug and technical support
+* Mentor junior engineers
 
 ### Lattice Semiconductor, 2018 - 2019:  Field Applications Engineer
 Supporting FPGA customers in the Pacific Northwest.
+* Pre and post sales support
+* Debug and technical support
 
 ### Maxim Integrated, 2011 - 2018:  PMTS Product Definer
 This is a customer facing system architect role.  Presents the value proposition to customers and gathers feedback to drive new compelling solutions to market. 
