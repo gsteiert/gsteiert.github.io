@@ -8,6 +8,7 @@
 ## Conference Presentation
 
 * Wearable System Power Analysis and Optimization, ARM TechCon 2015
+* Qwiic NFCPROM Badge, [Crowd Supply Teardown 2019](https://www.crowdsupply.com/teardown/portland-2019/sessions)
 
 ## Hardware Projects
 
@@ -28,7 +29,8 @@
 * [FPGA Helper](https://hackaday.io/project/160254-fpga-helper), FPGA programmer
 * [NFCPROM](https://hackaday.io/project/160582-qwiic-nfcprom), Dual port NFC/Qwiic EEPROM
 * [Blinking Business card Badge](https://hackaday.io/project/160590-blinking-business-card-badge-b3), Electronic business card that lights up when read.
-* [QGPIO](https://hackaday.io/project/173648-qgpio), a Qwiic compatible GPIO expander
+* [QGPIO](https://hackaday.io/project/173648-qgpio), a Qwiic compatible GPIO expander, [OSHW certified](https://certification.oshwa.org/us000648.html)
+* [Planting Bench](https://hackaday.io/project/173729-planting-bench), Plans for a wooden planting bench, [OSHW certified](https://certification.oshwa.org/us000646.html)
 
 ### Maxim Boards
 
