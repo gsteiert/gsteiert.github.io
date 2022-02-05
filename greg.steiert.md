@@ -1,4 +1,6 @@
-# [GREG STEIERT](https://greg.steiert.net) - - - 503-583-7363 - - - greg@steiert.net
+<img style="float: right;" src="img/gs.svg">
+
+# [GREG STEIERT](https://greg.steiert.net)
 
 ## SUMMARY
 Creative problem-solver with extensive experience in electronics design, architecture, and applications; demonstrated ability to identify customer needs and synthesize them into successful products. 
@@ -17,6 +19,10 @@ Creative problem-solver with extensive experience in electronics design, archite
 * “A Chimera of Standards, or the Challenges of Adapting Prototyping Standards,” [_EDN_,  Jan. 2015](https://www.edn.com/design/analog/4438443/A-Chimera-of-Standards--or-the-Challenges-of-Adapting-Prototyping-Standards)
 * “Wearable Weight Loss - Slim Down Wellness Devices with Better Energy Efficiency,” [_elektronikJOURNAL_, Nov. 2014](https://www.elektronikjournal.de/wp-content/uploads/sites/8/2014/11/eJL_2014_07_Internet-PDF_gepr.pdf) 
 
+### Open Source Contributions
+* [TinyUF2](https://github.com/adafruit/tinyuf2/graphs/contributors) Cross platform USB Mass Storage bootloader by Adafruit
+* [TinyUSB](https://github.com/hathach/tinyusb/graphs/contributors) Open cross platform USB library by Ha Thach
+
 ## EDUCATION
 **California Institute of Technology**:  B.S.E.E. 1996 
 
@@ -25,17 +31,20 @@ Creative problem-solver with extensive experience in electronics design, archite
 * **Hardware Design**:  ASIC, FPGA, Microcontrollers, Boards, Systems
 * **Software Development**:  Embedded C/C++, JAVA, Perl, Python, JavaScript
 
+<div class="page"/>
+
 ## EXPERIENCE
 
 ### NXP Semiconductor, 2019 - Present:  Field Applications Engineer
 Supporting a broad portfolio of microcontrollers at key customers in the Pacific Northwest.
 * ARM Cortex M0/M3/M4/M33/M7 up to 1GHz
+* Connectivity MCUs with BLE and NFC
 * Pre and post sales support
 * Debug and technical support
 * Mentor junior engineers
 
 ### Lattice Semiconductor, 2018 - 2019:  Field Applications Engineer
-Supporting FPGA customers in the Pacific Northwest.
+Supporting FPGA customers in Oregon, Washington and Western Canada.
 * Pre and post sales support
 * Debug and technical support
 
@@ -46,7 +55,7 @@ This is a customer facing system architect role.  Presents the value proposition
 * Lead two internal hackathons, including developing and presenting the training curriculum for embedded programming with HTML, CSS and Javascript
 * Designed evaluation kits from concept through production; modernized features and improved ease of use to grow demand more than tenfold
 * Developed embedded firmware in C and C++ for demonstrations and production test
-* My rapid prototyping platform became standard building block for Maxim evaluation kits
+* My rapid prototyping platform became common building block for Maxim evaluation kits
 
 ### Avnet, 2008-2011:  Field Applications Engineer
 Provided technical sales and support for a wide range of customers in the state of Washington.  Delivered custom presentations highlighting key technologies based on detailed analysis of customers’ needs.

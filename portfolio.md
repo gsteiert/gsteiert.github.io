@@ -1,3 +1,5 @@
+<img style="float: right;" src="img/gs.svg">
+
 # Portfolio of projects by Greg Steiert
 
 ## Publications
@@ -8,12 +10,17 @@
 ## Conference Presentation
 
 * Wearable System Power Analysis and Optimization, ARM TechCon 2015
+* Qwiic NFCPROM Badge, [Crowd Supply Teardown 2019](https://www.crowdsupply.com/teardown/portland-2019/sessions)
+
+## Open Source Contributions
+
+* [TinyUF2](https://github.com/adafruit/tinyuf2/graphs/contributors) Cross platform USB Mass Storage bootloader by Adafruit
+* [TinyUSB](https://github.com/hathach/tinyusb/graphs/contributors) Open cross platform USB library by Ha Thach
 
 ## Hardware Projects
 
 ### [Crowd Supply](https://www.crowdsupply.com/steiert-solutions)
 
-* Double M33 Express (comming soon)
 * [Teardown 2019 Badge](https://upverter.com/design/gsteiert/teardown2019/)
 
 ### [Fritzing](http://fritzing.org/profiles/gsteiert/)
@@ -29,6 +36,8 @@
 * [NFCPROM](https://hackaday.io/project/160582-qwiic-nfcprom), Dual port NFC/Qwiic EEPROM
 * [Blinking Business card Badge](https://hackaday.io/project/160590-blinking-business-card-badge-b3), Electronic business card that lights up when read.
 * [QGPIO](https://hackaday.io/project/173648-qgpio), a Qwiic compatible GPIO expander
+* [KUIIC](https://hackaday.io/project/183092-kuiic), a XAIO compatible K32L2B based USB to Qwiic adapter
+* [Planting Bench](https://hackaday.io/project/173729-planting-bench), Plans for a wooden planting bench, [OSHW certified](https://certification.oshwa.org/us000646.html)
 
 ### Maxim Boards
 
