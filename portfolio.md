@@ -36,7 +36,7 @@
 * [NFCPROM](https://hackaday.io/project/160582-qwiic-nfcprom), Dual port NFC/Qwiic EEPROM
 * [Blinking Business card Badge](https://hackaday.io/project/160590-blinking-business-card-badge-b3), Electronic business card that lights up when read.
 * [QGPIO](https://hackaday.io/project/173648-qgpio), a Qwiic compatible GPIO expander
-* [KUIIC](https://hackaday.io/project/183092-kuiic), a XAIO compatible K32L2B based USB to Qwiic adapter
+* [KUIIC](https://hackaday.io/project/183092-kuiic), a XIAO compatible K32L2B based USB to Qwiic adapter
 * [Planting Bench](https://hackaday.io/project/173729-planting-bench), Plans for a wooden planting bench, [OSHW certified](https://certification.oshwa.org/us000646.html)
 
 ### Maxim Boards
