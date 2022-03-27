@@ -5,15 +5,20 @@ body {
 /*    font-family: garamond, serif; */
 }
 
+a {
+    text-decoration: underline;
+    color: inherit;
+}
+
 img {
-    /* padding: 1em;
-    width: 8em; */
     padding: 10px;
     width: 120px;
 }
 
 h1 {
-    font-family: geneva;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 20px;
     letter-spacing: 3px;
     color: #00A860;
 }
@@ -27,10 +32,16 @@ h2 {
 }
 
 h3 {
-    margin-top: 0.25em;
+    margin-top: 0.75em;
     margin-bottom: 0.25em;
 }
 
+
+p {
+    margin-left: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
 
 ul, p {
     margin-top: 0;
@@ -38,7 +49,7 @@ ul, p {
 }
 
 .bigger {
-    font-size: xx-large;
+    font-size: 32px;
     color: #00A860;
 }
 
