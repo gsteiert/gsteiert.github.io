@@ -12,7 +12,7 @@ a {
 
 img {
     padding: 10px;
-    width: 120px;
+    width: 100px;
 }
 
 h1 {
@@ -57,19 +57,22 @@ ul, p {
     text-align: center;
     float: left;
     width: 30%; 
-    height: 140px;
     background-color: #4E4E4E;
 }
 
 .right-top {
+    vertical-align: middle;
     text-align: center;
     float: left;
     width: 70%; 
-    height: 140px;
+    min-height: 120px;
     background-color: #EEEEEE;
 }
 
 .left-side {
+    position: absolute;
+    top: 120px;
+    left: 5px;
     float: left;
     width: 30%; 
     background-color: #4E4E4E;
@@ -78,10 +81,14 @@ ul, p {
 .left-group {
     letter-spacing: 1px;
     text-decoration: none;
+    text-align: left;
     color: #EEEEEE;
     font-family: geneva, sans-serif;
     font-size: 10pt;
-    padding: 10px
+    padding-left: 16px;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .right-side {
@@ -95,6 +102,9 @@ ul, p {
     text-decoration: none;
     font-family: geneva, sans-serif;
     font-size: 10pt;
-    padding: 10px
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
     
