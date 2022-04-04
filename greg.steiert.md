@@ -3,7 +3,9 @@
 # [GREG STEIERT](https://greg.steiert.net)
 
 ## SUMMARY
-Creative problem-solver with extensive experience in electronics design, architecture, and applications; demonstrated ability to identify customer needs and synthesize them into successful products. 
+Creative problem-solver with extensive experience in electronics design, architecture, and applications  
+Curiosity driven, detail oriented engineer who quickly devlivers quality results
+
 
 ## ACCOMPLISHMENTS
 
@@ -45,8 +47,8 @@ Supporting a broad portfolio of microcontrollers at key customers in the Pacific
 
 ### Lattice Semiconductor, 2018 - 2019:  Field Applications Engineer
 Supporting FPGA customers in Oregon, Washington and Western Canada.
-* Pre and post sales support
-* Debug and technical support
+* Pre and post sales support for FPGAs and associated IP including AI and MIPI conversion
+* Debug and technical support FPGA, tools and IP
 
 ### Maxim Integrated, 2011 - 2018:  PMTS Product Definer
 This is a customer facing system architect role.  Presents the value proposition to customers and gathers feedback to drive new compelling solutions to market. 
@@ -63,21 +65,25 @@ Provided technical sales and support for a wide range of customers in the state 
 * Supported Maxim, Xilinx, Intel, Cypress, NXP, ST, Lattice
 
 ### Mathstar, 2007-2008:  Senior Systems Engineer 
-Lead the system-level engineering effort to support Field Programmable Object Arrays.  Designed boards for demonstration and validation of FPOAs.
-* Designed IoT network connected validation system 
+Lead the system-level engineering effort to support Field Programmable Object Arrays.  
+* Designed boards for demonstration and validation of FPOAs
+* Implemented Arena PLM system for engineering AVL and documentaiton control
+* Developed RESTful IoT network connected validation system
 
 ### Omneon Video Networks, 2004-2007:  Senior Design Engineer
-Designed modular real-time audio/video broadcast servers.   
-* Hardware development including:  system architecture, component selection, FPGA development, schematic capture, layout supervisions, compliance testing, signal integrity. 
-* Worked with technologies including:  Ethernet, Fibre Channel, HD-SDI, PCI, PCI Express, 1394, USB
+Designed 1U modular real-time audio/video broadcast servers.   
+* Hardware development including:  system architecture, FPGA development, schematic capture, layout supervisions, compliance testing, signal integrity. 
+* Worked with technologies including:  Ethernet, Fibre Channel, HD-SDI, PCI, PCI Express, 1394, USB, Audio/Video
 
 ### Welch Allyn, 2003-2004:  Electronics Engineer 
-Part of the Product Optimization Group for portable battery-powered patient monitors.  Handled manufacturing issues, component obsolescence, and compliance with regulatory changes.  
+Part of the Product Optimization Group for portable battery-powered patient monitors.  
+* Handled manufacturing issues, component obsolescence, and compliance with regulatory changes  
 
 ### Focus Enhancements, 2001-2002:  ASIC Design Engineer
-Designed VGA to TV scan conversion ASICs in Verilog.  Worked with video scaling, color conversion, VGA, NTSC, PAL, HDTV  
+Designed VGA to TV scan conversion ASICs in Verilog.    
 * Developed a closed caption waveform generator in Verilog
 * Automated the build-and-test environment to visually display simulation results
+* Worked with video scaling, color conversion, VGA, NTSC, PAL, HDTV
 
 ### Geocast Network Systems, 1999-2001:  Design Engineer
 Performed many roles as a board design engineer in a small startup.
@@ -85,7 +91,7 @@ Performed many roles as a board design engineer in a small startup.
 * Designed the ATSC data receiver using custom MIPS chipset
 
 ### Intel Corporation, 1996-1999:  Design Engineer
-* Board Design Engineer responsible for the first Merced/460GX server processor board
-* System Design Engineer working with quad-processor server enclosures
+* Designed first Itanium 460GX quad-processor server board
+* Designed quad-processor server enclosures to comply with thermal, EMC, environmental, and regulatory requirements
 
 
