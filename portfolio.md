@@ -23,10 +23,9 @@
 
 * [Teardown 2019 Badge](https://upverter.com/design/gsteiert/teardown2019/)
 
-### [Fritzing](http://fritzing.org/profiles/gsteiert/)
+### [TinyTapeout ASIC](https://tinytapeout.com/)
 
-* [spi2sd](http://fritzing.org/projects/spi2sd), SPI header to micro SD card adapter
-* [mbd2pmd](http://fritzing.org/projects/mbd2pmd), mbed board to pmod adapter with micro SD card connector and ethernet magjack connector
+* [Configurable SR Flip-Flop](https://github.com/steieio/tt02-submission-universal-sr)
 
 ### [Hackaday](https://hackaday.io/gsteiert)
 
@@ -45,3 +44,8 @@
 * [MAX32625PICO](https://www.maximintegrated.com/en/products/microcontrollers/MAX32625PICO.html), MAX32625 MAXDAP debug adapter/development platform [https://github.com/MaximIntegratedMicros/max32625pico-pcb](https://github.com/MaximIntegratedMicros/max32625pico-pcb)
 * [MAX32620FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32620FTHR.html), MAX32620 Rapid development platform [https://github.com/MaximIntegratedMicros/max32620fthr-pcb](https://github.com/MaximIntegratedMicros/max32620fthr-pcb), [MAX32620 Hackster Cheat Sheet](https://www.hackster.io/switches/max32620fthr-cheat-sheet-aee102)
 * [MAX32630FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32630FTHR.html), MAX32630 Rapid development platform
+
+### [Fritzing](http://fritzing.org/profiles/gsteiert/)
+
+* [spi2sd](http://fritzing.org/projects/spi2sd), SPI header to micro SD card adapter
+* [mbd2pmd](http://fritzing.org/projects/mbd2pmd), mbed board to pmod adapter with micro SD card connector and ethernet magjack connector
