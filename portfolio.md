@@ -1,4 +1,4 @@
-<img style="float: right;" src="img/gs.svg">
+<img style="float: right;" src="img/gs2.svg">
 
 # Portfolio of projects by Greg Steiert
 
