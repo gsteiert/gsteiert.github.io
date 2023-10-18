@@ -9,7 +9,16 @@
     <div class="top-row">
         <img src="img/gs2.svg">
         <div class="top-text">
-        <h1>Greg <br>Steiert</h1>
+          <h1>Greg <br>Steiert</h1>
+          <div id="contact"></div>
+          <script>
+              const urlParams = new URLSearchParams(window.location.search);
+              if (urlParams.get('name').includes("Steiert")) {
+                  document.getElementById("contact").innerHTML = urlParams.get('phone') + 
+                      ' \<a href="mailto:' + urlParams.get('email') + '"\>' + 
+                      urlParams.get('email') + '\<\/a\>';
+              }
+          </script>
         </div>
     </div>
     <div class="left-side">
