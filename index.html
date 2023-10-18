@@ -13,9 +13,10 @@
           <div id="contact"></div>
           <script>
               const urlParams = new URLSearchParams(window.location.search);
-              if (urlParams.get('name').includes("Steiert")) {
-                  document.getElementById("contact").innerHTML = urlParams.get('phone') + 
-                      ' \<a href="mailto:' + urlParams.get('email') + '"\>' + 
+              if (urlParams.get('name').includes("Greg Steiert")) {
+                  document.getElementById("contact").innerHTML = 
+                      urlParams.get('phone') + ' \<a href="mailto:' + 
+                      urlParams.get('email') + '"\>' + 
                       urlParams.get('email') + '\<\/a\>';
               }
           </script>
